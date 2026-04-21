@@ -1,31 +1,63 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Hanif+Sangkate;App+Developer+&amp;+Entrepreneur;Flutter+&amp;+Dart+Specialist;Freelancer+&amp;+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
 
-<h1 align="center">Hi 👋, I'm Hanif Sangkate</h1>
-<h3 align="center">EduTock Manager 💡 | 💼 Freelancer | 💡 Tech Entrepreneur | 👨‍💻 App Developer | 📚 Learn Everyda</h3>
-<img align="riht" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hanif7586&label=PROFILE+VIEWS&color=blue&style=for-the-badge&logo=eye" alt="hanif7586" />
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanif7586&label=Profile%20views&color=0e75b6&style=flat" alt="hanif7586" /> </p>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350">
+</div>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/hanif776856958/" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hanif776856958/?logo=twitter&style=for-the-badge" alt="https://twitter.com/hanif776856958/" /></a> </p>
+---
 
-- 💬 Ask me about **Android App Development and also marketing**
+### 🚀 Quick Summary
+I am a **Mobile App Developer** focused on building high-performance, user-centric applications. With expertise in **Flutter, Dart, and Android**, I bridge the gap between complex backend logic and beautiful UI.
 
-- 📫 How to reach me **hanifrohan7@gmail.com**
+- 🛠️ **Working on:** High-end E-commerce & Delivery platforms (UI/UX specialist).
+- 📦 **Tech Stack:** Provider,GetX for State Management.
+- 🎯 **Expertise:** App Animation, Map-based Tracking, and Professional UI Design.
+- 💬 **Ask me about:** Flutter performance, State management, or VPS deployment.
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/14n40cmXOi5BRNc57THSz8R9BMz6T2dNa/view](https://drive.google.com/file/d/16Y3hPOtPmUSTvR3BkFrsejhAt5MNOeSi/view)] 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/hanif776856958/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hanif776856958/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/hanif-sangkate-a618551a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hanif-sangkate-a618551a6" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hanifsangkate7?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hanifsangkate7?mibextid=zbwkwl" height="30" width="40" /></a>
+### 🛠 Tech Stack & Tools
+
+| Category | Skills / Tools |
+| :--- | :--- |
+| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) |
+| **Backend & DB** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+
+---
+
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanif7586&show_icons=true&theme=radical&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanif7586&layout=compact&theme=radical" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanif7586&theme=radical" width="100%" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanif7586&show_icons=true&locale=en&layout=compact" alt="hanif7586" /></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanif7586&theme=github-compact" width="100%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanif7586&show_icons=true&locale=en" alt="hanif7586" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanif7586&" alt="hanif7586" /></p>
+### 📫 Let's Collaborate!
+<p align="left">
+<a href="https://linkedin.com/in/hanif-sangkate-a618551a6" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/hanif776856958/" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://fb.com/hanifsangkate7" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:hanifrohan7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+  <p><i>"Turning coffee into code and ideas into reality."</i></p>
+</div>
